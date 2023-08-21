@@ -16,7 +16,7 @@
    </tr>
 </table>
 
-<link rel="stylesheet" type="text/css" media="all" href="./style.css" />
+<link rel="stylesheet" type="text/css" media="all" href="./assets/css/style.css" />
 
 _Click [here](https://github.com/{{ username }}) to view my Github Profile_
 
