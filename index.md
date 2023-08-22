@@ -16,15 +16,14 @@
    </tr>
 </table>
 
-<link rel="stylesheet" type="text/css" media="all" href="./assets/css/style.css" />
+<link rel="stylesheet" type="text/css" media="all" href="./assets/css/my-style.css" />
 
 _Click [here](https://github.com/{{ username }}) to view my Github Profile_
 
 
 ### Education
-* Delaware State University (2011 - 2015)
-* [Bachelor of Science (BS)](./bachelors-degree.pdf)
-* Computer Science Major, Mathematics Minor
+* ZipCodeWilmington School of Coding - _March 2023 - May 2023_
+* _[Certificate of Completion](./bachelors-degree.pdf)_
 
 
 ### Contact Information

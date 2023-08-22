@@ -7,7 +7,7 @@ if [ "$1" ]
     bundle install
     bundle update --bundler
     bundle update faraday
-    bundle exec jekyll serve --watch --port $1
+    bundle exec jekyll serve --trace --watch --port $1
     echo "The application should be served on [localhost:$1](http://localhost:$1/)"
 else
     echo "Port number not specified."

@@ -1,0 +1,8 @@
+/* hide the crapy default header and footer */
+header a,
+header ul,
+p:nth-child(2),
+footer p:nth-child(2) {
+  display: none !important;
+  font: transparent !important;
+}
