@@ -5,7 +5,7 @@
     https://{{ username }}.github.io/resume
 {% endcapture %}
 
-# {{ name }}
+# David Wise
 
 <table>
    <tr>
